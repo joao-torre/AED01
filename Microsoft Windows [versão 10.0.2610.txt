@@ -1,0 +1,27 @@
+Microsoft Windows [versão 10.0.26100.3476]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+C:\Users\Alunos>cd desktop
+
+C:\Users\Alunos\Desktop> git clone https://github.com/joao-torre/AED01.git
+
+C:\Users\Alunos\Desktop>dir
+
+C:\Users\Alunos\Desktop>cd AED01
+
+C:\Users\Alunos\Desktop\AED01>dir
+
+C:\Users\Alunos\Desktop\AED01> git add .
+
+C:\Users\Alunos\Desktop\AED01> git status
+
+C:\Users\Alunos\Desktop\AED01> git commit -m "atualização das aulas 5, 6, 7 e 8"
+
+C:\Users\Alunos\Desktop\AED01> git config --global user.email "joaogabrieltorre@gmail.com"
+
+C:\Users\Alunos\Desktop\AED01> git config --global user.name "Joao Torre"
+
+C:\Users\Alunos\Desktop\AED01> git commit -m "atualização das aulas 5, 6, 7 e 8"
+
+C:\Users\Alunos\Desktop\AED01> git push
+
